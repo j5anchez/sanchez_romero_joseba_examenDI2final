@@ -1,0 +1,9 @@
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\bin\Debug\Plantilla_MVC.exe.config
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\bin\Debug\Plantilla_MVC.exe
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\bin\Debug\Plantilla_MVC.pdb
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\obj\Debug\Plantilla_MVC.csprojAssemblyReference.cache
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\obj\Debug\Plantilla_MVC.Properties.Resources.resources
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\obj\Debug\Plantilla_MVC.csproj.GenerateResource.cache
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\obj\Debug\Plantilla_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\obj\Debug\Plantilla_MVC.exe
+C:\Users\Iker\source\repos\Plantilla_MVC\Plantilla_MVC\obj\Debug\Plantilla_MVC.pdb

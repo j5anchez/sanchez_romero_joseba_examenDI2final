@@ -1,0 +1,12 @@
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\bin\Debug\netcoreapp3.1\ConsolaPruebas.exe
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\bin\Debug\netcoreapp3.1\ConsolaPruebas.deps.json
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\bin\Debug\netcoreapp3.1\ConsolaPruebas.runtimeconfig.json
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\bin\Debug\netcoreapp3.1\ConsolaPruebas.runtimeconfig.dev.json
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\bin\Debug\netcoreapp3.1\ConsolaPruebas.dll
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\bin\Debug\netcoreapp3.1\ConsolaPruebas.pdb
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\obj\Debug\netcoreapp3.1\ConsolaPruebas.AssemblyInfoInputs.cache
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\obj\Debug\netcoreapp3.1\ConsolaPruebas.AssemblyInfo.cs
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\obj\Debug\netcoreapp3.1\ConsolaPruebas.csproj.CoreCompileInputs.cache
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\obj\Debug\netcoreapp3.1\ConsolaPruebas.dll
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\obj\Debug\netcoreapp3.1\ConsolaPruebas.pdb
+C:\Users\Iker\source\repos\Plantilla_MVC\ConsolaPruebas\obj\Debug\netcoreapp3.1\ConsolaPruebas.genruntimeconfig.cache
